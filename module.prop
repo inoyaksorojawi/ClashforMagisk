@@ -4,4 +4,4 @@ version=v2.5.1
 versionCode=20221201
 author=gandring
 description= Use iptables to support Clash's transparent proxy.Happy Tunneling On Android😊
-updateJson=https://github.com/inoyaksorojawi/clash/raw/main/update.json
+updateJson=https://github.com/inoyaksorojawi/ClashforMagisk/raw/sae/update.json
